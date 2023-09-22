@@ -7,6 +7,7 @@ Intructions for adding Git Large File Storage:
 - download Github Desktop
 - download Git Large File System
 - clone the repository using the github desktop option
+- choose "for your own purposes" and "enable LFS" when you are prompted to
 - when cloning change the folder name to cgt545_02_[YOUR PURDUE USER NAME]
 
 When you first open up the project in unreal, change your project settings
